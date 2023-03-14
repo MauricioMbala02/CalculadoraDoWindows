@@ -1,0 +1,10 @@
+C:\Users\vinicius\Documents\Visual Studio 2017\Projects\CalculadoraWindows\CalculadoraWindows\bin\Debug\CalculadoraWindows.exe.config
+C:\Users\vinicius\Documents\Visual Studio 2017\Projects\CalculadoraWindows\CalculadoraWindows\bin\Debug\CalculadoraWindows.exe
+C:\Users\vinicius\Documents\Visual Studio 2017\Projects\CalculadoraWindows\CalculadoraWindows\bin\Debug\CalculadoraWindows.pdb
+C:\Users\vinicius\Documents\Visual Studio 2017\Projects\CalculadoraWindows\CalculadoraWindows\obj\Debug\CalculadoraWindows.csprojAssemblyReference.cache
+C:\Users\vinicius\Documents\Visual Studio 2017\Projects\CalculadoraWindows\CalculadoraWindows\obj\Debug\CalculadoraWindows.Form1.resources
+C:\Users\vinicius\Documents\Visual Studio 2017\Projects\CalculadoraWindows\CalculadoraWindows\obj\Debug\CalculadoraWindows.Properties.Resources.resources
+C:\Users\vinicius\Documents\Visual Studio 2017\Projects\CalculadoraWindows\CalculadoraWindows\obj\Debug\CalculadoraWindows.csproj.GenerateResource.cache
+C:\Users\vinicius\Documents\Visual Studio 2017\Projects\CalculadoraWindows\CalculadoraWindows\obj\Debug\CalculadoraWindows.csproj.CoreCompileInputs.cache
+C:\Users\vinicius\Documents\Visual Studio 2017\Projects\CalculadoraWindows\CalculadoraWindows\obj\Debug\CalculadoraWindows.exe
+C:\Users\vinicius\Documents\Visual Studio 2017\Projects\CalculadoraWindows\CalculadoraWindows\obj\Debug\CalculadoraWindows.pdb
